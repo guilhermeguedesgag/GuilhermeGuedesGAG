@@ -5,6 +5,6 @@
 ####  Estou disponível também para prestação de serviço gratuito👏, o meu objetivo atualmente é adquirir experiência objetivando gerar valor para aquele que necessita...
 
 ### *Possuo conhecimentos iniciais em:*
-### HTML                           C++   C   R   
+### HTML,                           C++,   C e  R   
 ### *Conhecimentos Intermediário ao avançado em:*
 ### PYTHON
