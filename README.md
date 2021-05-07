@@ -7,4 +7,4 @@
 ### *Possuo conhecimentos iniciais em:*
 ### HTML, C++,   C e  R   
 ### *Conhecimentos Intermediário ao avançado em:*
-### PYTHON
+![PYTHON](https://github.com/GuilhermeGuedesGAG/GuilhermeGuedesGAG/blob/main/gif%20python.gif)
