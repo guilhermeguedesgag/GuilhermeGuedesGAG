@@ -1,4 +1,4 @@
-# Guilherme Guedes - Desenvolvedor Python
+# Guilherme Guedes - Desenvolvedor Java em Formação
 #### Meu nome é Guilherme👨‍💻, sou formado em Análise e Desenvolvimento de Sistemas (Total EAD - Anhanguera Educacional)😊.
 
 #### Sou Analista de Suporte e busco adquirir conhecimentos para me tornar um Programador Backend.
