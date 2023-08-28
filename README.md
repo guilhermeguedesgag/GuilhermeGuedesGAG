@@ -5,5 +5,9 @@
 
 #### No meu perfil, em 'repositórios' você irá encontrar alguns trabalhos meus.
 
+Quer conhecer mais projetos?
+
+Clique neste ícone ->   <a href="https://www.linkedin.com/in/guilhermeguedesgag/">![github](https://img.shields.io/badge/Linkedin-007?style=for-the-badge&logo=linkedin&style=flat&logoColor=white)</a> e descubra mais projetos meus.
+
 
 
