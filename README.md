@@ -1,4 +1,7 @@
-# Guilherme Guedes - Desenvolvedor ![](https://img.shields.io/badge/Java-%23FF0004?style=for-the-badge&logo=oracle) em Formação ![](https://img.shields.io/badge/Windows-blue?logo=windows) ![](https://img.shields.io/badge/Linux-purple?logo=linux)
+## **Guilherme Guedes** 
+
+### Desenvolvedor ![](https://img.shields.io/badge/Java-%23FF0004?style=for-the-badge&logo=oracle) em Formação ![](https://img.shields.io/badge/Windows-blue?logo=windows) ![](https://img.shields.io/badge/Linux-purple?logo=linux)
+
 #### Meu nome é Guilherme👨‍💻, sou formado em Análise e Desenvolvimento de Sistemas (Total EAD - Anhanguera Educacional)😊.
 
 #### Sou Analista de Suporte e busco adquirir conhecimentos para me tornar um Programador Backend.
